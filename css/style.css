@@ -193,8 +193,15 @@ hr{
 .exp
 {
   text-align: center;
+  width: 100%;
+  display: grid;
+  place-items: center;
 }
 td
 {
   width: 10%;
+}
+tr
+{
+padding: 0px 10px;
 }
